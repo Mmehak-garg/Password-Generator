@@ -10,7 +10,7 @@ const  lowercaseCheck  = document.querySelector("#lowercase");
 const  numbersCheck  = document.querySelector("#numbers");
 const  symbolsCheck  = document.querySelector("#symbols");
 
-const indicator = document.querySelector("[data-indicator");
+const indicator = document.querySelector("[data-indicator]");
 const generateBtn = document.querySelector(".generateButton");
 
 const allCheckBox = document.querySelectorAll("input[type=checkbox]");
